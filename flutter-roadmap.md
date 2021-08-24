@@ -7,6 +7,7 @@
 - [Effective dart](https://dart.dev/guides/language/effective-dart)
 - [Type system](https://dart.dev/guides/language/type-system)
 - [Dart Metanit](https://metanit.com/dart/tutorial/)
+- [Dart Основы книга](https://drive.google.com/file/d/1qXBqtm22gjDvkiUAaFL8uPr2SXXEXbPE/view?usp=sharing)
 
 ###  Flutter
 - [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro)
